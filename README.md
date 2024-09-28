@@ -53,10 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielCiriaco/GabrielCiriaco/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">🔥My stats:</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GabrielCiriaco&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
