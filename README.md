@@ -1,15 +1,18 @@
 <h1 align="center">⭐- Welcome -⭐</h1>
 
+###
+
 <h2 align="left">🙋‍♂️Who am i?</h2>
 <p align="left">I am a Computer Science undergraduate at the Federal University of Itajubá (UNIFEI) with experience in software development and data science. Currently, I work as an intern at Descubra Soluções, contributing to the development of web applications using Angular and Node.js, while also building interactive dashboards and RESTful APIs connected to PostgreSQL databases.<br><br>I have also worked as a software developer at Asimov Jr., where I developed web solutions for employee management and scheduling using Angular and Firebase. I am familiar with tools such as Docker, Elasticsearch, Power BI, and Tableau.</p>
 
 <p align="left"><a href="https://drive.google.com/file/d/1dCVE1wX-o0jImfCm7h4MRYUF8-AStmwy/view?usp=sharing">Check here my CV</a></p>
 
+###
 
 <h2 align="left">👨‍💻Work Experience:</h2>
 <p align="left">- 1 year and 3 months as a software development and data analysis intern at Descubra Soluções using Angular, Node.js and SQL.<br><br> - 1 year as a software developer at Asimov Jr. using Angular.</p>
 
-
+###
 
 <h2 align="left">🔎Find me:</h2>
 <div align="left">
@@ -48,11 +51,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
-
+###
 
 <img src="https://raw.githubusercontent.com/GabrielCiriaco/GabrielCiriaco/output/snake.svg" alt="Snake animation" />
 
-
+###
 
 <h2 align="left">🔥My stats:</h2>
 <div align="center">
