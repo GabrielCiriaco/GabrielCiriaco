@@ -5,7 +5,7 @@
 <h2 align="left">🙋‍♂️Who am i?</h2>
 <p align="left">I am a Computer Science undergraduate at the Federal University of Itajubá (UNIFEI) with experience in software development and data science. Currently, I work as an intern at Descubra Soluções, contributing to the development of web applications using Angular and Node.js, while also building interactive dashboards and RESTful APIs connected to PostgreSQL databases.<br><br>I have also worked as a software developer at Asimov Jr., where I developed web solutions for employee management and scheduling using Angular and Firebase. I am familiar with tools such as Docker, Elasticsearch, Power BI, and Tableau.</p>
 
-<p align="left"><a href="https://drive.google.com/file/d/1dCVE1wX-o0jImfCm7h4MRYUF8-AStmwy/view?usp=sharing">Check here my CV</a></p>
+<p align="left"><a href="https://drive.google.com/file/d/1dCVE1wX-o0jImfCm7h4MRYUF8-AStmwy/view?usp=sharing">Click here to access my CV (Portuguese)</a></p>
 
 ###
 
